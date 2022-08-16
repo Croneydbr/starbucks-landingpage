@@ -28,7 +28,6 @@ header {
     justify-content: space-between;
     align-items: center;
 }
-
 header .logo {
     position: relative;
     max-width: 80px;
@@ -37,11 +36,9 @@ header ul {
     position: relative;
     display: flex;
 }
-
 header ul li {
     list-style: none;
 }
-
 header ul li a {
     display: inline-block;
     color: #333;
